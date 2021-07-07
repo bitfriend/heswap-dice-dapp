@@ -25,6 +25,3 @@ yarn-error.log*
 package-lock.json
 yarn.lock
 debug.log
-
-# build of smart contract
-/src/abis

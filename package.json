@@ -24,8 +24,10 @@
     "url": "https://github.com/bitfriend/heswap-dice-dapp/issues"
   },
   "homepage": "https://github.com/bitfriend/heswap-dice-dapp#readme",
-  "devDependencies": {
+  "dependencies": {
     "@openzeppelin/truffle-upgrades": "^1.8.0",
+    "@truffle/hdwallet-provider": "^1.4.1",
+    "dotenv": "^10.0.0",
     "truffle": "^5.3.14"
   }
 }
